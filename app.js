@@ -26,7 +26,7 @@ data = [{title: "~てから / ~te kara / tapahtumajärjestys",
         <br><i>Koko de tabete mo ii desu ka.</i>
         <br>Saako täällä syödä?
         <br><br>
-        Vastaavasti luvan voi myöntää (tai kertoa mikä on muuten vain ok) käyttämällä samaa rakennetta yksinkertaisesti päättämättä lausetta か。
+        Vastaavasti luvan voi myöntää (tai kertoa mikä on muuten vain ok) käyttämällä samaa rakennetta ilman lopussa olevaa か。
         <br>このケーキは<strong>食べてもいいです</strong>。
         <br><i>Kono keeki wa tabete mo ii desu</i>
         <br>Tämän kakun voi syödä.
@@ -84,7 +84,33 @@ data = [{title: "~てから / ~te kara / tapahtumajärjestys",
         <br>自然が<strong>好きで</strong>、よく森を散歩します。
         <br><i>Shizen ga suki de, yoku mori o sanpo shimasu.</i>
         <br>Tykkään luonnosta <strong>ja</strong> käyn usein metsässä kävelyillä.
-        <br>(Huom. japanissa tykätä ei ole verbi vaan na-adjektiivi!)`},]
+        <br>(Huom. japanissa tykätä ei ole verbi vaan na-adjektiivi!)`},
+      {title: "Komparatiivi osa 1",
+    body: `Kun kysytään vertailumielessä kahden asian väliltä, käytetään kysymyssanaa <strong>どちら</strong> ja partikkelia <strong>と</strong>.
+    <br>デッドリフト<strong>と</strong>スクワット<strong>とどちら</strong>が厳しいですか。
+    <br><i>Deddorifuto to sukuwatto to dochira ga kibishii desu ka.</i>
+    <br>Kumpi on raskaampi, maastaveto vai kyykky?
+    <br>
+    <br>Vastaaminen tapahtuu kaavalla "vertailun voittaja <strong>のほうが</strong> (vertailun häviäjä <strong>より</strong>) vertailtava asia です。"
+    <br>デッドリフト<strong>のほうが</strong> ( スクワット<strong>より</strong> ) 厳しいです。
+    <br><i>Deddorifuto no hou ga (sukuwatto yori) kibishii desu.</i>
+    <br>Maastaveto on raskaampi (kuin kyykky).
+    <br>! Kuten voi huomata, ns. hävinnyttä osapuolta ei ole välttämätöntä mainita.`},
+  {title: "Komparatiivi osa 2",
+  body: `Kun kyseessä on väitelause, jotain todetaan vain faktana, on rakenne "vertailun voittaja <strong>は</strong> vertailun häviäjä <strong>より</strong> 
+  vertailtava asia です。
+  <br>寿司<strong>は</strong>パスタ<strong>より</strong>美味しいです。
+  <br><i>Sushi wa pasuta yori oishii desu.</i>
+  <br>Sushi on herkullisempaa kuin pasta.
+  <br>
+  <br>Kun vertailtavien asioiden välillä ei ole eroa, on helpointa vastata <strong>どちらも同じぐらい</strong>(vertailtava asia)です。
+  <br>どちらも同じぐらい( 可愛い )です。
+  <br><i>Dochira mo onaji gurai (kawaii) desu.</i>
+  <br>Molemmat ovat yhtä söpöjä.
+  <br><br>Jos haluaa korostaa vaihtoehtoja, voi myös vastata seuraavalla kaavalla:
+  <br>猫<strong>も</strong>犬<strong>も同じぐらい</strong> (可愛い) です。
+  <br><i>Neko mo inu mo onaji gurai (kawaii) desu.</i>
+  <br>Kissat ja koirat ovat yhtä söpöjä.`}]
 
 data.forEach((item, index) => {
     let headerText = document.getElementById(`otsikko${index}`)
