@@ -26,7 +26,7 @@ let grammar = [{title: "~てから / ~te kara / tapahtumajärjestys",
         <br><br>
         Vastaavasti luvan voi myöntää (tai kertoa mikä on muuten vain ok) käyttämällä samaa rakennetta ilman lopussa olevaa か。
         <br>このケーキは<strong>食べてもいいです</strong>。
-        <br><i>Kono keeki wa tabete mo ii desu</i>
+        <br><i>Kono keeki wa tabete mo ii desu.</i>
         <br>Tämän kakun voi syödä.
         <br>
         <br>あのゲームを<strong>買ってもいい</strong>よ。
@@ -52,7 +52,7 @@ let grammar = [{title: "~てから / ~te kara / tapahtumajärjestys",
         <br>
         <br>静か<strong>で</strong>綺麗な公園です。
         <br><i>Shizuka de kirei na kouen desu.</i>
-        <br>Rauhallinen <strong>ja</strong> kaunis puisto
+        <br>Rauhallinen <strong>ja</strong> kaunis puisto.
         <br>
         <br>この車は便利<strong>で</strong>速いです。
         <br><i>Kono kuruma wa benri de hayai desu.</i>
@@ -108,6 +108,22 @@ let grammar = [{title: "~てから / ~te kara / tapahtumajärjestys",
   <br><br>Jos haluaa korostaa vaihtoehtoja, voi myös vastata seuraavalla kaavalla:
   <br>猫<strong>も</strong>犬<strong>も同じぐらい</strong> (可愛い) です。
   <br><i>Neko mo inu mo onaji gurai (kawaii) desu.</i>
-  <br>Kissat ja koirat ovat yhtä söpöjä.`}]
+  <br>Kissat ja koirat ovat yhtä söpöjä.`},
+{title: "Superlatiivi",
+body: `Kun kysytään suosikkia, parasta tms., niin käytetään kaavaa "vertailujoukko ( <strong>の中</strong> ) <strong>で</strong> kysymyssana <strong>が 
+いちばん</strong> vertailtava asia ですか。"
+<br>Kysymyssana voi olla aiheesta riippuen esimerkiksi どこ、何、いつ、どれ
+<br>アニメ ( の中 ) <strong>で何がいちばん</strong>楽しいですか。
+<br><i>Anime (no naka) de nani ga ichiban tanoshii desu ka.</i>
+<br>Mikä anime on mielestäsi nautittavin?
+<br>
+<br>Vastata voi sanomalla "ylivertainen asia<strong> が いちばん</strong> ominaisuus です。
+<br><i>ビール<strong>がいちばん</strong>好きです。</i>
+<br>Tykkään eniten oluesta
+<br>
+<br>Kun väitelauseena vain kerrotaan mikä on ylivertainen, rakenne on "asia <strong>は</strong> joukko ( の中 ) <strong>で いちばん</strong> ominaisuus です。"
+<br>ピカチュウ<strong>は</strong>ポケモン( の中 )<strong>でいちばん</strong>強いネズミです。
+<br><i>Pikachuu wa pokemon (no naka) de ichiban tsuyoi nezumi desu.</i>
+<br>Pikachu on vahvin hiiri kaikista pokemoneista.`}]
 
 export default grammar;
