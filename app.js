@@ -9,7 +9,7 @@ data = [{title: "~てから / ~te kara / tapahtumajärjestys",
         Kun halutaan korostaa tapahtumien järjestystä, lisätään verbin te-muodon perään <strong>から</strong>
         <br>ヤケさんが<strong>来てから</strong>、食べましょう。
         <br><i>Jake-san ga kite kara, tabemashou.</i>
-        <br>Syödään <strong>sen jälkeen, kun</strong> Jake on saapunut
+        <br>Syödään <strong>sen jälkeen, kun</strong> Jake on saapunut.
         <br>
         <br>毎日、うちに<strong>帰ってから</strong>、勉強をします
         <br><i>Mainichi, uchi ni kaette kara, benkyou shimasu.</i>
@@ -68,7 +68,7 @@ data = [{title: "~てから / ~te kara / tapahtumajärjestys",
         {title: "Lauseiden yhdistäminen",
         body: `Lauseiden yhdistäminen riippuu täysin siitä, minkälainen ensimmäinen lause on. Jos kyseessä on verbi- tai i-adjektiivilause, ne yhdistetään taivuttamalla
          ensimmäisen lauseen verbi tai adjektiivi te-muotoon. (ks. edellinen kielioppiasia)
-        <br>毎朝、新聞を<strong>読んで</strong>、ジースを飲みます。
+        <br>毎朝、新聞を<strong>読んで</strong>、ジュースを飲みます。
         <br><i>Maiasa shinbun o yonde, juusu o nomimasu.</i>
         <br>Joka aamu luen sanomalehteä <strong>ja</strong> juon mehua.
         <br>
