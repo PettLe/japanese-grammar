@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <title>Stacked Cards with Bootstrap</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css">
   <style>
     .card {
       cursor: pointer;
@@ -19,82 +20,73 @@
         <!-- <div id="accordion"> -->
         <!-- </div> -->
     <div class="container-lg mx-auto p-5">
-    <div class="accordion" id="accordionPanelsStayOpenExample">
+    <div class="accordion">
+<!-- Kortti -->
         <div class="accordion-item text-bg-secondary">
           <h2 class="accordion-header">
-            <button class="accordion-button collapsed text-bg-secondary fs-2" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                ~てから / ~te kara / tapahtumajärjestys
+            <button class="accordion-button collapsed text-bg-secondary fs-2" id="otsikko0" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapse0" aria-expanded="true" aria-controls="panelsStayOpen-collapse0">
             </button>
           </h2>
-          <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse">
-            <div class="accordion-body fs-5">
-            Tapahtumaketjuja voi kuvata käyttämällä verbin te-muotoa.
-        <br>明日、公園に<strong>行って</strong>、コーヒーを飲みます。
-    <br><i>Ashita, kouen ni itte, koohii wo nomimasu.</i>
-<br>Huomenna menen puistoon <strong>ja</strong> juon kahvia.
-<br><br>
-Kun halutaan korostaa tapahtumien järjestystä, lisätään verbin te-muodon perään <strong>から</strong>
-<br>ヤケさんが<strong>来てから</strong>、食べましょう。
-<br><i>Jake-san ga kite kara, tabemashou.</i>
-<br>Syödään <strong>sen jälkeen, kun</strong> Jake on saapunut
-<br>
-<br>毎日、うちに<strong>帰ってから</strong>、勉強をします
-<br><i>Mainichi, uchi ni kaette kara, benkyou shimasu.</i>
-<br>Opiskelen joka päivä <strong>sen jälkeen, kun</strong> olen palannut kotiin.
-</div>
+          <div id="panelsStayOpen-collapse0" class="accordion-collapse collapse">
+            <div class="accordion-body fs-5" id="teksti0">
+        </div>
           </div>
         </div>
+<!-- Kortti -->
         <div class="accordion-item text-bg-secondary">
           <h2 class="accordion-header">
-            <button class="accordion-button collapsed text-bg-secondary fs-2" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
-              ~てもいいですか / ~te mo ii desu ka / luvan kysyminen
+            <button class="accordion-button collapsed text-bg-secondary fs-2" id="otsikko1" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapse1" aria-expanded="false" aria-controls="panelsStayOpen-collapse1">
             </button>
           </h2>
-          <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse">
-            <div class="accordion-body fs-5">
-                Lupaa voidaan kysyä yhdistämällä verbin te-muodon perään partikkeli も (myös) + adjektiivi いい (hyvä) + ですか。
-                Näin saadaan lause, jonka merkitys olisi kirjaimellisesti suurinpiirtein "vaikka tehden X, onko se hyvä?"
-                <br>明日は家に<strong>行ってもいいですか</strong>。
-                <br><i>Ashita wa ie ni itte mo ii desu ka.</i>
-                <br>Käykös jos tulen talollesi huomenna?
-                <br>
-                <br>ここで<strong>食べてもいいですか</strong>。
-                <br><i>Koko de tabete mo ii desu ka.</i>
-                <br>Saako täällä syödä?
-                <br><br>
-                Vastaavasti luvan voi myöntää (tai kertoa mikä on ok) käyttämällä samaa rakennetta päättämättä lausetta か。
-                <br>このケーキは<strong>食べてもいいです</strong>。
-                <br><i>Kono keeki wa tabete mo ii desu</i>
-                <br>Tämän kakun voi syödä.
-                <br>
-                <br>あのゲームを<strong>買ってもいい</strong>よ。
-                <br><i>Ano geemu o katte mo ii yo.</i>
-                <br>Voit ostaa sen pelin.
+          <div id="panelsStayOpen-collapse1" class="accordion-collapse collapse">
+            <div class="accordion-body fs-5" id="teksti1">
             </div>
           </div>
         </div>
+<!-- Kortti -->
         <div class="accordion-item text-bg-secondary">
           <h2 class="accordion-header">
-            <button class="accordion-button collapsed text-bg-secondary fs-2" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
-              ~てはいけません / ~te wa ikemasen / kieltäminen
+            <button class="accordion-button collapsed text-bg-secondary fs-2" id="otsikko2" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapse2" aria-expanded="false" aria-controls="panelsStayOpen-collapse2">
             </button>
           </h2>
-          <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse">
-            <div class="accordion-body fs-5">
-        Kieltäminen tapahtuu lisäämällä verbin -te muodon perään はいけません
-        <br>レストランでタバコを<strong>吸ってはいけません</strong>。
-        <br><i>Resutoran de tabako o sutte wa ikemasen.</i>
-        <br>Ravintolassa ei saa polttaa tupakkaa.
-
-        <br><br>いけません on kohteliaampi muoto verbistä いけない jota myös voi käyttää. Yksinkertaisin ja kasuaalein käytettävä sana on だめ
-        <br>危ない場所に<strong>行ってはだめ</strong>よ。
-        <br><i>Abunai basho ni itte wa dame yo.</i>
-        <br>Vaarallisiin paikkoihin ei pidä mennä!
+          <div id="panelsStayOpen-collapse2" class="accordion-collapse collapse">
+            <div class="accordion-body fs-5" id="teksti2">
            </div>
           </div>
         </div>
+<!-- Kortti -->
+        <div class="accordion-item text-bg-secondary">
+            <h2 class="accordion-header">
+              <button class="accordion-button collapsed text-bg-secondary fs-2" id="otsikko3" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapse3" aria-expanded="true" aria-controls="panelsStayOpen-collapse3">
+              </button>
+            </h2>
+            <div id="panelsStayOpen-collapse3" class="accordion-collapse collapse">
+              <div class="accordion-body fs-5" id="teksti3">
+                </div>
+            </div>
+          </div>
+<!-- Kortti -->
+        <div class="accordion-item text-bg-secondary">
+            <h2 class="accordion-header">
+              <button class="accordion-button collapsed text-bg-secondary fs-2" id="otsikko4" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapse4" aria-expanded="true" aria-controls="panelsStayOpen-collapse4">
+              </button>
+            </h2>
+            <div id="panelsStayOpen-collapse4" class="accordion-collapse collapse">
+              <div class="accordion-body fs-5" id="teksti4">
+                </div>
+            </div>
+          </div>
+          <!-- Kortti loppuu -->
       </div>
     </div>
+    <!-- Back to top button -->
+    <button
+        type="button"
+        class="btn btn-danger btn-floating btn-lg"
+        id="btn-back-to-top"
+        >
+  <i class="fas fa-arrow-up">TOP</i>
+</button>
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
@@ -105,6 +97,6 @@ Kun halutaan korostaa tapahtumien järjestystä, lisätään verbin te-muodon pe
       });
     });
   </script>
-  <!-- <script src="accordion.js"></script> -->
+  <script src="app.js"></script>
 </body>
 </html>
