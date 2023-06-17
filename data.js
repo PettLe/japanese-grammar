@@ -123,7 +123,7 @@ body: `Kun kysytään suosikkia, parasta tms., niin käytetään kaavaa "vertail
 <br>Tykkään eniten oluesta
 <br>
 <br>Kun väitelauseena vain kerrotaan mikä on ylivertainen, rakenne on "asia <strong>は</strong> joukko ( <strong>の中</strong> ) <strong>で いちばん</strong> ominaisuus です。"
-<br>ピカチュウ<strong>は</strong>ポケモン( の中 )<strong>でいちばん</strong>強いネズミです。
+<br>ピカチュウ<strong>は</strong>ポケモン( <strong>の中</strong> )<strong>でいちばん</strong>強いネズミです。
 <br><i>Pikachuu wa pokemon (no naka) de ichiban tsuyoi nezumi desu.</i>
 <br>Pikachu on vahvin hiiri kaikista pokemoneista.`}]
 
