@@ -113,15 +113,16 @@ let grammar = [{title: "~てから / ~te kara / tapahtumajärjestys",
 body: `Kun kysytään suosikkia, parasta tms., niin käytetään kaavaa "vertailujoukko ( <strong>の中</strong> ) <strong>で</strong> kysymyssana <strong>が 
 いちばん</strong> vertailtava asia ですか。"
 <br>Kysymyssana voi olla aiheesta riippuen esimerkiksi どこ、何、いつ、どれ
-<br>アニメ ( の中 ) <strong>で何がいちばん</strong>楽しいですか。
+<br>アニメ ( <strong>の中</strong> ) <strong>で何がいちばん</strong>楽しいですか。
 <br><i>Anime (no naka) de nani ga ichiban tanoshii desu ka.</i>
 <br>Mikä anime on mielestäsi nautittavin?
 <br>
 <br>Vastata voi sanomalla "ylivertainen asia<strong> が いちばん</strong> ominaisuus です。
-<br><i>ビール<strong>がいちばん</strong>好きです。</i>
+<br>ビール<strong>がいちばん</strong>好きです。
+<br><i>Biiru ga ichiban suki desu.</i>
 <br>Tykkään eniten oluesta
 <br>
-<br>Kun väitelauseena vain kerrotaan mikä on ylivertainen, rakenne on "asia <strong>は</strong> joukko ( の中 ) <strong>で いちばん</strong> ominaisuus です。"
+<br>Kun väitelauseena vain kerrotaan mikä on ylivertainen, rakenne on "asia <strong>は</strong> joukko ( <strong>の中</strong> ) <strong>で いちばん</strong> ominaisuus です。"
 <br>ピカチュウ<strong>は</strong>ポケモン( の中 )<strong>でいちばん</strong>強いネズミです。
 <br><i>Pikachuu wa pokemon (no naka) de ichiban tsuyoi nezumi desu.</i>
 <br>Pikachu on vahvin hiiri kaikista pokemoneista.`}]
