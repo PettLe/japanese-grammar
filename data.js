@@ -87,7 +87,7 @@ let grammar = [{title: "~てから / ~te kara / tapahtumajärjestys",
     body: `Kun kysytään vertailumielessä kahden asian väliltä, käytetään kysymyssanaa <strong>どちら</strong> ja partikkelia <strong>と</strong>.
     <br>デッドリフト<strong>と</strong>スクワット<strong>とどちら</strong>が厳しいですか。
     <br><i>Deddorifuto to sukuwatto to dochira ga kibishii desu ka.</i>
-    <br>Kumpi on raskaampi, maastaveto vai kyykky?
+    <br>Kumpi on raskaampaa, maastaveto vai kyykky?
     <br>
     <br>Vastaaminen tapahtuu kaavalla "vertailun voittaja <strong>のほうが</strong> (vertailun häviäjä <strong>より</strong>) vertailtava asia です。"
     <br>デッドリフト<strong>のほうが</strong> ( スクワット<strong>より</strong> ) 厳しいです。
