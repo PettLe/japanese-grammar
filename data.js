@@ -126,4 +126,4 @@ body: `Kun kysytään suosikkia, parasta tms., niin käytetään kaavaa "vertail
 <br><i>Pikachuu wa pokemon (no naka) de ichiban tsuyoi nezumi desu.</i>
 <br>Pikachu on vahvin hiiri kaikista pokemoneista.`}]
 
-export default grammar;
+export {grammar};
