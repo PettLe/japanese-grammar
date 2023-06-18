@@ -1,5 +1,6 @@
 let grammar = [{title: "~てから / ~te kara / tapahtumajärjestys",
-        body: `Tapahtumaketjuja voi kuvata käyttämällä verbin te-muotoa.
+        body: `<br><strong><i>! Jos te-muoto ei ole enää tuoreessa mielessä, katso Kappale 4 - Verbien mennyt aika (+ TE-MUOTO)</i></strong>
+        <br>Tapahtumaketjuja voi kuvata käyttämällä verbin te-muotoa.
         <br>明日、公園に<strong>行って</strong>、コーヒーを飲みます。
         <br><i>Ashita, kouen ni itte, koohii wo nomimasu.</i>
         <br>Huomenna menen puistoon <strong>ja</strong> juon kahvia.
@@ -13,7 +14,8 @@ let grammar = [{title: "~てから / ~te kara / tapahtumajärjestys",
         <br><i>Mainichi, uchi ni kaette kara, benkyou shimasu.</i>
         <br>Opiskelen joka päivä <strong>sen jälkeen, kun</strong> olen palannut kotiin.`},
         {title: "~てもいいですか / ~te mo ii desu ka / luvan kysyminen",
-        body: `Lupaa voidaan kysyä yhdistämällä verbin te-muodon perään partikkeli <strong>も</strong> (myös) + adjektiivi <strong>いい</strong> (hyvä) + 
+        body: `<br><strong><i>! Jos te-muoto ei ole enää tuoreessa mielessä, katso Kappale 4 - Verbien mennyt aika (+ TE-MUOTO)</i></strong>
+        <br>Lupaa voidaan kysyä yhdistämällä verbin te-muodon perään partikkeli <strong>も</strong> (myös) + adjektiivi <strong>いい</strong> (hyvä) + 
         <strong>ですか</strong>。
         Näin saadaan lause, jonka merkitys olisi kirjaimellisesti suurinpiirtein "vaikka tehden X, onko se hyvä?"
         <br>明日は家に<strong>行ってもいいですか</strong>。
@@ -33,7 +35,8 @@ let grammar = [{title: "~てから / ~te kara / tapahtumajärjestys",
         <br><i>Ano geemu o katte mo ii yo.</i>
         <br>Voit ostaa sen pelin.`},
         {title: "~てはいけません / ~te wa ikemasen / kieltäminen",
-        body: `Kieltäminen tapahtuu lisäämällä verbin -te muodon perään <strong>はいけません</strong>
+        body: `<br><strong><i>! Jos te-muoto ei ole enää tuoreessa mielessä, katso Kappale 4 - Verbien mennyt aika (+ TE-MUOTO)</i></strong>
+        <br>Kieltäminen tapahtuu lisäämällä verbin -te muodon perään <strong>はいけません</strong>
         <br>レストランでタバコを<strong>吸ってはいけません</strong>。
         <br><i>Resutoran de tabako o sutte wa ikemasen.</i>
         <br>Ravintolassa ei saa polttaa tupakkaa.
