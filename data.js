@@ -128,6 +128,49 @@ body: `Kun kysytään suosikkia, parasta tms., niin käytetään kaavaa "vertail
 <br>Kun väitelauseena vain kerrotaan mikä on ylivertainen, rakenne on "asia <strong>は</strong> joukko ( <strong>の中</strong> ) <strong>で いちばん</strong> ominaisuus です。"
 <br>ピカチュウ<strong>は</strong>ポケモン( <strong>の中</strong> )<strong>でいちばん</strong>強いネズミです。
 <br><i>Pikachuu wa pokemon (no naka) de ichiban tsuyoi nezumi desu.</i>
-<br>Pikachu on vahvin hiiri kaikista pokemoneista.`}]
+<br>Pikachu on vahvin hiiri kaikista pokemoneista.`},
+{title: "ので / node / Koska-rakenne",
+body: `<strong>Verbit ja i-adjektiivit</strong>
+<br>Perustyylissä. Verbit ja adjektiivit voivat olla kielteisessä, myönteisessä sekä menneessä muodossa.
+<br>今日は<strong>寒いので</strong>、外に行きません。
+<br><i>Kyou wa samui node, soto ni ikimasen.</i>
+<br>Tänään on kylmä, <strong>joten</strong> en mene ulos.
+<br>
+<br>コーヒーは<strong>甘くなかったので</strong>、サトウを入れました。
+<br><i>Koohii wa amakunakatta node, satou o iremashita.</i>
+<br>Kahvi ei ollut makeaa, joten laitoin sokeria.
+<br>
+<br>明日は早く<strong>起きるので</strong>、９時に寝ます。
+<br><i>Ashita wa hayaku okiru node, ku-ji ni nemasu.</i>
+<br>Herään huomenna aikaisin, <strong>joten</strong> menen nukkumaan kello 21.
+<br>
+<br>明日は仕事が<strong>ないので</strong>、友達に会います。
+<br><i>Ashita wa shigoto ga nai node, tomodachi ni aimasu.</i>
+<br>Huomenna ei ole töitä, <strong>joten</strong> tapaan ystäväni.
+<br>
+<br><strong>Substantiivit ja na-adjektiivit</strong>
+<br>Myönteisessä lauseessa substantiivien ja na-adjektiivien perään tulee <strong>な</strong> ennen <strong>ので</strong>:a
+<br>Jos lause on kielteinen, な tilalle tulee <strong>じゃない</strong> / <strong>ではない</strong>
+<br>寿司が<strong>好きなので</strong>、よく食べます。
+<br><i>Sushi ga suki na node, yoku tabemasu.</i>
+<br>Tykkään sushista, <strong>joten</strong> syön sitä usein.
+<br><br><strong>夏休みなので</strong>、旅行に行きたいです。
+<br><i>Natsu yasumi na node, ryokou ni ikitai desu.</i>
+<br>On kesäloma, <strong>joten</strong> tahdon lähteä matkalle.
+<br>
+<br><strong>金曜日じゃないので</strong>、飲みに行きたくないです。
+<br><i>Kinyoubi ja nai node, nomi ni ikitakunai desu.</i>
+<br>Ei ole perjantai, <strong>joten</strong> en tahdo lähteä muutamalle lasilliselle.
+<br>
+<br>その建物は<strong>安全じゃなかったので</strong>、解体されました。
+<br><i>Sono tatemono wa anzen janakatta node, kaitai saremashita.</i>
+<br>Se rakennus ei ollut turvallinen, <strong>joten</strong> se purettiin.
+<br><br>ので:lle löytyy myös toinen vastine, から, joka on hitusen epämuodollisempi ja subjektiivisempi. Toisaalta se myös korostaa syyn ja seurauksen
+yhteyttä, jonka takia sitä käytetään esimerkiksi asemien kuulutuksissa, jotka liittyvät nopeasti reagoitaviin (jopa vaarallisiin) tilanteisiin, kuten 
+aseman ohittaviin juniin.
+<br>
+<br>から-sanaa käyttäessä substantiivien ja na-adjektiivien taivutukset ovat hitusen erilaiset (<strong>な</strong> -> <strong>だ</strong> / <strong>です</strong>)`},
+{title: "なる / naru / adverbit + muutoksen kuvaaminen",
+body: "Toistaiseksi tyhjää, やばい！"}]
 
 export {grammar};
