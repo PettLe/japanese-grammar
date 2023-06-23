@@ -171,6 +171,27 @@ aseman ohittaviin juniin.
 <br>
 <br>から-sanaa käyttäessä substantiivien ja na-adjektiivien taivutukset ovat hitusen erilaiset (<strong>な</strong> -> <strong>だ</strong> / <strong>です</strong>)`},
 {title: "なる / naru / adverbit + muutoksen kuvaaminen",
-body: "Toistaiseksi tyhjää, やばい！"}]
+body: `Adverbi voidaan muodostaa kahdella tavalla. i-adjektiiveista korvaamalla viimeinen い tavulla <strong>く</strong> ja na-adjektiiveista korvaamalla
+な tavulla <strong>に</strong>
+<br>早<strong>い</strong> --> 早<strong>く</strong>
+<br>早<strong>く</strong>来てください。
+<br><i>Hayaku kite kudasai.</i>
+<br>Ole kiltti ja tule nopeasti.
+<br>
+<br>静か <strong>な</strong> --> 静か <strong>に</strong>
+<br>もうちょっと静か<strong>に</strong>話して。
+<br><i>Mou chotto shizuka ni hanashite.</i>
+<br>Puhuisitko vähän hiljempaa.
+<br><br>
+<strong>Muutosta</strong> voi kuvata verbillä <strong>なる</strong>
+<br>Rakenne voi käyttää niin adjektiiveja kuin substantiiveja, ja kertoo <i>miksi</i> tai <i>millaiseksi</i> jokin tulee. Näitä asioita voi olla mm.
+ammatit, vuodenajat, ikä, ominaisuus, ajan muutos työstä lomaksi jne.
+<br>公園は賑やか<strong>になりました</strong>。
+<br><i>Kouen wa nigiyaka ni narimashita.</i>
+<br>Puistosta tuli eläväinen/vilkas.
+<br>
+<br>早<strong>く</strong>夏<strong>にならない</strong>。
+<br><i>Hayaku natsu ni naranai.</i>
+<br>Kesä ei tule aikaisin.`}]
 
 export {grammar};
