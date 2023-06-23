@@ -1,6 +1,6 @@
 let harjoitukset = [{teht: `Tehtävät on jaettu kolmeen osaan kielioppiasioiden mukaisessa järjestyksessä. Lopussa vastaukset voi paljastaa klikkaamalla.
                     <br>
-                    <br>1a. 宿題を__________遊びに行きます。(verb. 終える おえる viimeistellä / saattaa päätökseen)
+                    <br>1a. 宿題を__________遊びに行きます。(終える おえる viimeistellä / saattaa päätökseen)
                     <br><i>Shukudai o __________ asobi ni ikimasu.</i>
                     <br>Menen leikkimään viimeisteltyäni läksyt.
                     <br>
@@ -106,6 +106,91 @@ let harjoitukset = [{teht: `Tehtävät on jaettu kolmeen osaan kielioppiasioiden
                 <br>
                 <br>3a. 彼は友達( <strong>の中</strong> )<strong>で、いちばん</strong>優しい人です。
                 <br>3b. あのカフェ( <strong>の中</strong> )<strong>で</strong>、このケーキ<strong>がいちばん</strong>美味しいです。
-                <br>3c. このパソコン<strong>がいちばん</strong>速いです。`}]
+                <br>3c. このパソコン<strong>がいちばん</strong>速いです。`},
+                {teht: `Taivuta seuraavat verbit myönteiseen ja negatiiviseen perusmuotoon. Tehtävässä on sekaisin jokaisen kolmen verbiryhmän verbejä.
+                <br>1a.
+                <br>呼びます（よびます）
+                <br>会います（あいます）
+                <br>します
+                <br>寝ます（ねます）
+                <br>帰ります（かえります）
+                <br>勝ちます（かちます）
+                <br><br>Taivuta seuraavat verbit myönteiseen ます-muotoon.
+                <br>1b.
+                <br>歌わない（うたわない）
+                <br>ある
+                <br>始める（はじめる）
+                <br>来ない（こない）
+                <br>返す（かえす）
+                <br>働く（はたらく）
+                <br>
+                <br>2a. 明日は__________、遊べません。(忙しい いそがしい kiireinen)
+                <br><i>Ashita wa __________, asobemasen.</i>
+                <br>Huomenna olen kiireinen, joten en ehdi hengailemaan.
+                <br>
+                <br>2b. 今日は学校が__________、公園に行きます。(ない ei ole)
+                <br><i>Kyou wa gakkou ga __________, kouen ni ikimasu.</i>
+                <br>Tänään ei ole koulua, joten menen puistoon.
+                <br>
+                <br>2c. 湖は__________、よく見に行きます。(綺麗 きれい kaunis)
+                <br><i>Mizu'umi wa __________, yoku mi ni ikimasu.</i>
+                <br>Järvi on kaunis, joten menen usein katselemaan sitä.
+                <br>
+                <br>2d. __________、料理を作るのが好きです。(チェフ kokki)
+                <br><i>__________, ryouri o tsukuru no ga suki desu.</i>
+                <br>Olen kokki, joten tykkään laittaa ruokaa.
+                <br>
+                <br>2e. まだ__________、釣りをしたくないです。(夏 なつ kesä)
+                <br><i>Mada __________, tsuri ni shitakunai desu.</i>
+                <br>Vielä ei ole kesä, joten en tahdo kalastaa.
+                <br>
+                <br>2f. たくさんのお菓子を__________、お腹が痛いです。(食べた たべた söi)
+                <br><i>Takusan no okashi o __________, onaka ga itai desu.</i>
+                <br>Söin paljon karkkia, joten mahani on kipeä.
+                <br>
+                <br>3a. １２０才__________。
+                <br><i>Hyaku ni-juu sai __________.</i>
+                <br>Tahdon tulla 120-vuotiaaksi.
+                <br>
+                <br>3b. 私は運転手__________。
+                <br><i>Watashi wa untenshu __________.</i>
+                <br>Minusta ei tule autokuskia.
+                <br>
+                <br>3c. 冬は夜５時から__________。(暗い くらい pimeää)
+                <br><i>Fuyu wa yoru go-ji kara __________.</i>
+                <br>Talvella tulee pimeää jo kello viideltä.
+                <br>
+                <br>3d. __________。(静か しずか hiljainen)
+                <br><i>__________.</i>
+                <br>Ei tullut hiljaista.
+                <br><br>Vastaukset:`,
+                vast: `
+                1a.
+                <br>呼<strong>ぶ</strong> / 呼<strong>ば</strong>ない
+                <br>会<strong>う</strong> / 会<strong>わ</strong>ない
+                <br><strong>する</strong> / し<strong>ない</strong>
+                <br>寝<strong>る</strong> / 寝<strong>ない</strong>
+                <br>帰<strong>る</strong> / 帰<strong>ら</strong>ない
+                <br>勝<strong>つ</strong> / 勝<strong>た</strong>ない
+                <br>
+                <br>1b.
+                <br>歌<strong>います</strong>
+                <br>あ<strong>ります</strong>
+                <br>始め<strong>ます</strong>
+                <br>来<strong>ます</strong>
+                <br>返<strong>します</strong>
+                <br>働<strong>きます</strong>
+                <br>
+                <br>2a. 明日は忙しい<strong>ので</strong>、遊べません。
+                <br>2b. 今日は学校がない<strong>ので</strong>、公園に行きます。
+                <br>2c. 湖は綺麗<strong>なので</strong>、よく見に行きます。
+                <br>2d. チェフ<strong>なので</strong>、料理を作るのが好きです。
+                <br>2e. まだ夏<strong>じゃないので</strong>、釣りをしたくないです。
+                <br>2f. たくさんのお菓子を食べた<strong>ので</strong>、お腹が痛いです。
+                <br>
+                <br>3a. １２０才<strong>になりたい</strong>です。
+                <br>3b. 私は運転手<strong>になりません</strong>。
+                <br>3c. 冬は夜５時から暗<strong>くなります</strong>。
+                <br>3d. 静か<strong>になりませんでした</strong>。`}]
 
 export {harjoitukset}

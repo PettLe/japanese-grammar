@@ -183,15 +183,23 @@ body: `Adverbi voidaan muodostaa kahdella tavalla. i-adjektiiveista korvaamalla 
 <br><i>Mou chotto shizuka ni hanashite.</i>
 <br>Puhuisitko vähän hiljempaa.
 <br><br>
-<strong>Muutosta</strong> voi kuvata verbillä <strong>なる</strong>
+<strong>Muutosta</strong> voi kuvata verbillä <strong>なる</strong> (Ryhmä 1: なります なりません -> なる ならない)
 <br>Rakenne voi käyttää niin adjektiiveja kuin substantiiveja, ja kertoo <i>miksi</i> tai <i>millaiseksi</i> jokin tulee. Näitä asioita voi olla mm.
 ammatit, vuodenajat, ikä, ominaisuus, ajan muutos työstä lomaksi jne.
 <br>公園は賑やか<strong>になりました</strong>。
 <br><i>Kouen wa nigiyaka ni narimashita.</i>
 <br>Puistosta tuli eläväinen/vilkas.
 <br>
-<br>早<strong>く</strong>夏<strong>にならない</strong>。
-<br><i>Hayaku natsu ni naranai.</i>
-<br>Kesä ei tule aikaisin.`}]
+<br>早<strong>く</strong>夏<strong>になりません</strong>。
+<br><i>Hayaku natsu ni narimasen.</i>
+<br>Kesä ei tule aikaisin.
+<br>
+<br>綺麗<strong>になりたい</strong>です。
+<br><i>Kirei ni naritai desu.</i>
+<br>Tahdon tulla kauniiksi.
+<br>
+<br>値段がだんだん高<strong>くなります</strong>。
+<br><i>Nedan ga dandan takaku narimasu.</i>
+<br>Hinnat kallistuvat pikkuhiljaa`}]
 
 export {grammar};
