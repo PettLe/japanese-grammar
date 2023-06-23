@@ -141,7 +141,7 @@ let harjoitukset = [{teht: `Tehtävät on jaettu kolmeen osaan kielioppiasioiden
                 <br>Olen kokki, joten tykkään laittaa ruokaa.
                 <br>
                 <br>2e. まだ__________、釣りをしたくないです。(夏 なつ kesä)
-                <br><i>Mada __________, tsuri ni shitakunai desu.</i>
+                <br><i>Mada __________, tsuri o shitakunai desu.</i>
                 <br>Vielä ei ole kesä, joten en tahdo kalastaa.
                 <br>
                 <br>2f. たくさんのお菓子を__________、お腹が痛いです。(食べた たべた söi)

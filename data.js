@@ -190,9 +190,9 @@ ammatit, vuodenajat, ikä, ominaisuus, ajan muutos työstä lomaksi jne.
 <br><i>Kouen wa nigiyaka ni narimashita.</i>
 <br>Puistosta tuli eläväinen/vilkas.
 <br>
-<br>早<strong>く</strong>夏<strong>になりません</strong>。
-<br><i>Hayaku natsu ni narimasen.</i>
-<br>Kesä ei tule aikaisin.
+<br>どうして夏<strong>になりません</strong>か。
+<br><i>Doushite natsu ni narimasen ka.</i>
+<br>Miksi kesä ei tule?
 <br>
 <br>綺麗<strong>になりたい</strong>です。
 <br><i>Kirei ni naritai desu.</i>
