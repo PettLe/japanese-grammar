@@ -221,6 +221,21 @@ kun todetaan / halutaan tietää vain yksinkertaisia faktoja. Esimerkiksi kyllä
 <br><i>Ano hito wa boku no tomodachi nan desu.</i>
 <br>(Asia on niin, että) tuo henkilö on ystäväni.`},
 {title: "つもり / tsumori / aikomuksista kertominen",
-body: `fdsfdsafdsa`}]
+body: `Kun halutaan kertoa siitä mitä aikoo tai ei aio tehdä tulevaisuudessa, käytetään rakennetta verbin perustyyli + <strong>つもりです</strong>
+<br>自転車で行く<strong>つもり</strong>です。
+<br><i>Jitensha de iku tsumori desu.</i>
+<br>Aion mennä polkupyörällä.
+<br>
+<br>今日、ピザを食べない<strong>つもり</strong>です。
+<br><i>Kyou, piza o tabenai tsumori desu.</i>
+<br>Tänään en aio syödä pizzaa.
+<br>
+<br>Käytetään normaalisti vain omista aikeista kertomiseen, sillä kyseessä on hyvin suora ilmaisu. Kuitenkin esimerkiksi hyvältä ystävältään voi kysyä
+tätä rakennetta käyttäen.
+<br>Rakenteesta löytyy myös toinen kielteinen, paljon voimakkaampi muoto. Se muodostetaan yhdistämällä verbin perustyyli + <strong>つもり</strong> + 
+<strong>はありません</strong>
+<br>早く起きる<strong>つもりはありません</strong>。
+<br><i>Hayaku okiru tsumori wa arimasen.</i>
+<br>Minulla ei ole <i>minkäänlaista aikomusta</i> herätä aikaisin.`}]
 
 export {grammar};
