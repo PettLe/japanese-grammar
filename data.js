@@ -219,6 +219,8 @@ kun todetaan / halutaan tietää vain yksinkertaisia faktoja. Esimerkiksi kyllä
 <br>
 <br>あの人は僕の友達<strong>なんです</strong>。
 <br><i>Ano hito wa boku no tomodachi nan desu.</i>
-<br>(Asia on niin, että) tuo henkilö on ystäväni.`}]
+<br>(Asia on niin, että) tuo henkilö on ystäväni.`},
+{title: "つもり / tsumori / aikomuksista kertominen",
+body: `fdsfdsafdsa`}]
 
 export {grammar};
