@@ -200,6 +200,25 @@ ammatit, vuodenajat, ikä, ominaisuus, ajan muutos työstä lomaksi jne.
 <br>
 <br>値段がだんだん高<strong>くなります</strong>。
 <br><i>Nedan ga dandan takaku narimasu.</i>
-<br>Hinnat kallistuvat pikkuhiljaa`}]
+<br>Hinnat kallistuvat pikkuhiljaa`},
+{title: "~んです / ~n desu / selittävä lauserakenne",
+body: `Kun tahdotaan selittää jotain - tai kysyä jostain tarkempaa selitystä odottaen - käytetään <strong>~んです</strong> -rakennetta. Ei kuitenkaan käytetä silloin,
+kun todetaan / halutaan tietää vain yksinkertaisia faktoja. Esimerkiksi kyllä/ei -kysymykset.
+<br>Muodostetaan lisäämällä verbien ja i-adjektiivien perustyylin perään. Substantiivien ja na-adjektiivien kanssa tulee sanan ja <strong>~んです</strong>väliin 
+<strong>な</strong> tai です perustyylinen muoto.<br>
+<br>私は悪い<strong>んです</strong>。
+<br><i>Watashi wa waruin desu.</i>
+<br>(Asia on niin, että) minä olen syyllinen.
+<br><br>これが欲しい<strong>んです</strong>か。
+<br><i>Kore ga hoshiin desu ka.</i>
+<br>Tämänkö sinä haluat?
+<br>
+<br>ずっとギターを練習してる<strong>んだ</strong>けど、まだ上手じゃない。
+<br><i>Zutto gitaa wo renshuu shiterun da kedo, mada jouzu janai.</i>
+<br>Vaikka olen harjoitellut pitkään kitaran soittoa, en ole vielä hyvä.
+<br>
+<br>あの人は僕の友達<strong>なんです</strong>。
+<br><i>Ano hito wa boku no tomodachi nan desu.</i>
+<br>(Asia on niin, että) tuo henkilö on ystäväni.`}]
 
 export {grammar};
