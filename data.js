@@ -236,6 +236,15 @@ tätä rakennetta käyttäen.
 <strong>はありません</strong>
 <br>早く起きる<strong>つもりはありません</strong>。
 <br><i>Hayaku okiru tsumori wa arimasen.</i>
-<br>Minulla ei ole <i>minkäänlaista aikomusta</i> herätä aikaisin.`}]
+<br>Minulla ei ole <i>minkäänlaista aikomusta</i> herätä aikaisin.`},
+{title: "Tekemisen ja tapahtumien taajuus",
+body: `Kun halutaan kertoa kuinka usein tehdään jotakin, käytetään rakennetta <i>ajanjakso</i> + <strong>に</strong> + <i>kuinka monta kertaa</i>
+<br><strong>一ヶ月に一回</strong>映画館に行きます。
+<br><i>Ikkagetsu ni ikkai eigakan ni ikimasu.</i>
+<br>Käyn elokuvateatterissa kerran kuukaudessa.
+<br>
+<br><strong>一日に三時間</strong>ぐらい日本語を勉強します。
+<br><i>Ichi nichi ni san-jikan gurai nihongo o benkyou shimasu.</i>
+<br>Opiskelen japaninkieltä noin kolme tuntia päivässä.`}]
 
 export {grammar};
