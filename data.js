@@ -264,6 +264,18 @@ erilaista käyttötapaa ja nyanssia.
 <br>
 <br>ゲームをすること<strong>しか</strong>好き<strong>じゃありません</strong>。
 <br><i>Geemu o suru koto shika suki ja arimasen.</i>
-<br>En tykkää kuin pelata videpelejä.`}]
+<br>En tykkää kuin pelata videpelejä.`},
+{title: "ほしい / hoshii / haluta asia tai esine",
+body: `Michi I -kirjassa opittiin (kpl 12, s. 175) kuinka ilmaistaan mitä halutaan tehdä. Se tapahtui verbin ~たい päätteellä. (行きたい、食べたい jne.)
+Kun halutaan ilmaista, että halutaan jokin asia tai esine, käytetään i-adjektiivia ほしい hyödyntävää rakennetta <i>haluttava asia</i>
+ + が ほしい です。Huomion arvoista on, että sanan pystyy myös taivuttamaan negatiiviseen muotoon ほしくない, mutta sen suorasukaisuuden vuoksi sen käyttöä on
+ hyvä välttää. Vastaavasta syystä on myös yleistä käyttää lauserakenteen yhteydessä aiemmin opittua pehmentävää ~んです -rakennetta. (vrt. haluan -> haluaisin)
+ <br>誕生日にお金<strong>がほしい</strong>んです。
+ <br><i>Tanjoubi ni okane ga hoshii n desu</i>
+ <br>Haluaisin rahaa syntymäpäiväkseni.
+ <br>
+ <br>新しい携帯より、新しいパソコン<strong>がほしい</strong>ですよ。
+ <br><i>Atarashii keitai yori, atarashii pasokon ga hoshii desu yo.</i>
+ <br>Tahdon ennemmin uuden tietokoneen kuin kännykän!`}]
 
 export {grammar};
