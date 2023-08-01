@@ -245,6 +245,25 @@ body: `Kun halutaan kertoa kuinka usein tehdään jotakin, käytetään rakennet
 <br>
 <br><strong>一日に三時間</strong>ぐらい日本語を勉強します。
 <br><i>Ichi nichi ni san-jikan gurai nihongo o benkyou shimasu.</i>
-<br>Opiskelen japaninkieltä noin kolme tuntia päivässä.`}]
+<br>Opiskelen japaninkieltä noin kolme tuntia päivässä.`},
+{title: "Vain-rakenne",
+body: `Japaninkielessä on kaksi eri <i>vain</i>-sanaa, joiden käyttötapa ja nyanssit ovat hitusen erilaiset keskenään. Toinen on だけ, jonka yhteydessä lauserakenne
+on <strong>aina</strong> myönteinen. Toinen sana on しか, jonka yhteydessä taas lauserakenne on aina kielteinen. Seuraavat esimerkit selventävät näiden kahden
+erilaista käyttötapaa ja nyanssia.
+<br>私<strong>だけ</strong>行きます。
+<br><i>Watashi dake ikimasu.</i>
+<br>Vain minä menen.
+<br>
+<br>ゲームをすること<strong>だけ</strong>が好きです。
+<br><i>Geemu o suru koto dake ga suki desu.</i>
+<br>Tykkään vain pelata videopelejä.
+<br>
+<br>私<strong>しか</strong>行き<strong>ません</strong>。
+<br><i>Watashi shika ikimasen.</i>
+<br>Kukaan muu kuin minä ei mene.
+<br>
+<br>ゲームをすること<strong>しか</strong>好き<strong>じゃありません</strong>。
+<br><i>Geemu o suru koto shika suki ja arimasen.</i>
+<br>En tykkää kuin pelata videpelejä.`}]
 
 export {grammar};
