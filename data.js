@@ -268,7 +268,7 @@ erilaista käyttötapaa ja nyanssia.
 {title: "ほしい / hoshii / haluta asia tai esine",
 body: `Michi I -kirjassa opittiin (kpl 12, s. 175) kuinka ilmaistaan mitä halutaan tehdä. Se tapahtui verbin ~たい päätteellä. (行きたい、食べたい jne.)
 Kun halutaan ilmaista, että halutaan jokin asia tai esine, käytetään i-adjektiivia ほしい hyödyntävää rakennetta <i>haluttava asia</i>
- + が ほしい です。Huomion arvoista on, että sanan pystyy myös taivuttamaan negatiiviseen muotoon ほしくない, mutta sen suorasukaisuuden vuoksi sen käyttöä on
+ + が ほしい。Huomion arvoista on, että sanan pystyy myös taivuttamaan negatiiviseen muotoon ほしくない, mutta sen suorasukaisuuden vuoksi sen käyttöä on
  hyvä välttää. Vastaavasta syystä on myös yleistä käyttää lauserakenteen yhteydessä aiemmin opittua pehmentävää ~んです -rakennetta. (vrt. haluan -> haluaisin)
  <br>誕生日にお金<strong>がほしい</strong>んです。
  <br><i>Tanjoubi ni okane ga hoshii n desu</i>
