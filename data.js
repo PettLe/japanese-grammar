@@ -276,6 +276,21 @@ Kun halutaan ilmaista, että halutaan jokin asia tai esine, käytetään i-adjek
  <br>
  <br>新しい携帯より、新しいパソコン<strong>がほしい</strong>ですよ。
  <br><i>Atarashii keitai yori, atarashii pasokon ga hoshii desu yo.</i>
- <br>Tahdon ennemmin uuden tietokoneen kuin kännykän!`}]
+ <br>Tahdon ennemmin uuden tietokoneen kuin kännykän!`},
+{title: "~ほうがいい / ~hou ga ii / neuvominen",
+body: `Kun halutaan neuvoa toista henkilöä, tai kertoa mikä olisi fiksuin tapa toimia, käytetään rakennetta <i>verbin mennyt muoto (~た-muoto)</i> + <strong>
+ほう が いい</strong>. Käyttämällä verbin kielteistä preesensin perusmuotoa voidaan puolestaan kertoa mitä ei pitäisi tehdä. Rakenne on melko holhoava ja alentuva,
+joten sitä kannattaa käyttää harkiten. Sanomaa voi vähän pehmentää lisäämällä loppuun partikkelin ね tai よ.
+<br>宿題をし<strong>たほうがいい</strong>です。
+<br><i>Shukudai o shita hou ga ii desu.</i>
+<br>Olisi parempi tehdä kotiläksyt.
+<br>
+<br>ここに住ん<strong>だほうがいい</strong>です。
+<br><i>Koko ni sunda hou ga ii desu.</i>
+<br>Olisi parempi asua täällä.
+<br>
+<br>タバコを吸わ<strong>ないほうがいい</strong>ですよ。
+<br><i>Tabako o suwanai hou ga ii desu yo.</i>
+<br>Olisi parempi olla polttamatta tupakkaa!`}]
 
 export {grammar};
