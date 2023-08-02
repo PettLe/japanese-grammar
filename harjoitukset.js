@@ -191,6 +191,38 @@ let harjoitukset = [{teht: `Tehtävät on jaettu kolmeen osaan kielioppiasioiden
                 <br>3a. １２０才<strong>になりたい</strong>です。
                 <br>3b. 私は運転手<strong>になりません</strong>。
                 <br>3c. 冬は夜５時から暗<strong>くなります</strong>。
-                <br>3d. 静か<strong>になりませんでした</strong>。`}]
+                <br>3d. 静か<strong>になりませんでした</strong>。`},
+            {teht: `Taivuta seuraavat verbit myönteiseen menneeseen perusmuotoon. Tehtävässä on sekaisin jokaisen kolmen verbiryhmän verbejä.
+            <br>1a.
+            <br>呼ぶ（よぶ）
+            <br>会う（あう）
+            <br>する
+            <br>寝る（ねる）
+            <br>帰る（かえる）
+            <br>勝つ（かつ）
+            <br><br>Taivuta seuraavat verbit kielteiseen menneeseen perusmuotoon.
+            <br>1b.
+            <br>歌う（うたう）
+            <br>ある
+            <br>始める（はじめる）
+            <br>来る（くる）
+            <br>返す（かえす）
+            <br>働く（はたらく）
+            <br><br>Vastaukset:`,
+        vast: `1a.
+        <br>呼<strong>んだ</strong>
+        <br>会<strong>った</strong>
+        <br><strong>した</strong>
+        <br>寝<strong>た</strong>
+        <br>帰<strong>った</strong>
+        <br>勝<strong>った</strong>
+        <br>
+        <br>1b.
+        <br>歌<strong>わなかった</strong>
+        <br><strong>なかった</strong>
+        <br>始め<strong>なかった</strong>
+        <br>来<strong>なかった</strong>
+        <br>返<strong>さなかった</strong>
+        <br>働<strong>かなかった</strong>`}]
 
 export {harjoitukset}
