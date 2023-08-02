@@ -208,6 +208,28 @@ let harjoitukset = [{teht: `Tehtävät on jaettu kolmeen osaan kielioppiasioiden
             <br>来る（くる）
             <br>返す（かえす）
             <br>働く（はたらく）
+            <br>
+            <br>Täydennä lauseet (aikomuksista kertominen)
+            <br>2a.今日、ピザを__________です。(食べる たべる syödä)
+            <br><i>Kyou, piza o __________ desu.</i>
+            <br>Tänään aion syödä pizzaa.
+            <br>
+            <br>2b.もうお酒を__________です。 (飲む のむ juoda)
+            <br><i>Mou osake o _________ desu.</i>
+            <br>En aio juoda enää alkoholia.
+            <br>
+            <br>2c.来年は日本の旅行に__________です。(行く いく mennä)
+            <br><i>Rainen wa Nihon no ryokou ni __________ desu.</i>
+            <br>Ensi vuonna aion mennä reissulle Japaniin.
+            <br>
+            <br>Täydennä lauseet (tapahtumien taajuus)
+            <br>3a._____ __ _____ぐらい海外旅行に行きます。
+            <br><i>_____ __ _____ gurai kaigai ryokou ni ikimasu.</i>
+            <br>Käyn ulkomaan matkalla noin kaksi kertaa vuodessa.
+            <br>
+            <br>3b._____ __ _____ はストレチする必要があります。
+            <br><i>_____ __ _____ wa sutorechi suru hitsuyou ga arimasu.</i>
+            <br>On tarpeellistä venytellä viiden minuutin ajan joka tunti.
             <br><br>Vastaukset:`,
         vast: `1a.
         <br>呼<strong>んだ</strong>
@@ -223,6 +245,13 @@ let harjoitukset = [{teht: `Tehtävät on jaettu kolmeen osaan kielioppiasioiden
         <br>始め<strong>なかった</strong>
         <br>来<strong>なかった</strong>
         <br>返<strong>さなかった</strong>
-        <br>働<strong>かなかった</strong>`}]
+        <br>働<strong>かなかった</strong>
+        <br>
+        <br>2a.今日、ピザを食べ<strong>るつもり</strong>です。
+        <br>2b.もうお酒を飲ま<strong>ないつもり</strong>です。
+        <br>2c.来年は日本の旅行に行<strong>くつもり</strong>です。
+        <br>
+        <br>3a.<strong>一年に二回</strong>ぐらい海外旅行に行きます。
+        <br>3b.<strong>一時間に五分</strong>はストレチする必要があります。`}]
 
 export {harjoitukset}
