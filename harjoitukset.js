@@ -210,26 +210,56 @@ let harjoitukset = [{teht: `Tehtävät on jaettu kolmeen osaan kielioppiasioiden
             <br>働く（はたらく）
             <br>
             <br>Täydennä lauseet (aikomuksista kertominen)
-            <br>2a.今日、ピザを__________です。(食べる たべる syödä)
+            <br>2a. 今日、ピザを__________です。(食べる たべる syödä)
             <br><i>Kyou, piza o __________ desu.</i>
             <br>Tänään aion syödä pizzaa.
             <br>
-            <br>2b.もうお酒を__________です。 (飲む のむ juoda)
+            <br>2b. もうお酒を__________です。 (飲む のむ juoda)
             <br><i>Mou osake o _________ desu.</i>
             <br>En aio juoda enää alkoholia.
             <br>
-            <br>2c.来年は日本の旅行に__________です。(行く いく mennä)
+            <br>2c. 来年は日本の旅行に__________です。(行く いく mennä)
             <br><i>Rainen wa Nihon no ryokou ni __________ desu.</i>
             <br>Ensi vuonna aion mennä reissulle Japaniin.
             <br>
             <br>Täydennä lauseet (tapahtumien taajuus)
-            <br>3a._____ __ _____ぐらい海外旅行に行きます。
+            <br>3a. _____ __ _____ぐらい海外旅行に行きます。(年 ねん / 回 かい)
             <br><i>_____ __ _____ gurai kaigai ryokou ni ikimasu.</i>
             <br>Käyn ulkomaan matkalla noin kaksi kertaa vuodessa.
             <br>
-            <br>3b._____ __ _____ はストレチする必要があります。
+            <br>3b. _____ __ _____ はストレチする必要があります。(時間 じかん / 分 ふん)
             <br><i>_____ __ _____ wa sutorechi suru hitsuyou ga arimasu.</i>
             <br>On tarpeellistä venytellä viiden minuutin ajan joka tunti.
+            <br>
+            <br>Täydennä joko だけ tai しか
+            <br>4a. 500円_____持っていません。
+            <br><i>500 en ______ motte imasen.</i>
+            <br>Minulla ei ole kuin 500 yeniä.
+            <br>
+            <br>4b. 私は野菜_____食べます。
+            <br><i>Watashi wa yasai _____ tabemasu.</i>
+            <br>Syön ainoastaan vihanneksia.
+            <br>
+            <br>4c. 彼_____来ました。
+            <br><i>Kare _____ kimashita.</i>
+            <br>Ainoastaan hän tuli.
+            <br>
+            <br>4d. 冷蔵庫にビール_____残っていません。
+            <br><i>Reizouko ni biiru _____ nokotte imasen.</i>
+            <br>Jääkaapissa ei ole muuta kuin olutta.
+            <br>
+            <br>Täytä haluamista kuvaava partikkeli ja sana
+            <br>5a. 使いやすい携帯__ _____んです。
+            <br><i>Tsukai yasui keitai __ _____n desu.</i>
+            <br>Tahtoisin helppokäyttöisen kännykän.
+            <br>
+            <br>5b. 新しい靴__ _____です。
+            <br><i>Atarashii kutsu __ _____ desu.</i>
+            <br>Tahdoin uudet kengät! (Huomaa mennyt aikamuoto)
+            <br>
+            <br>5c. その猫__ _____ですよ。
+            <br><i>Sono neko __ _____ desu yo.</i>
+            <br>En tahdo sitä kissaa!
             <br><br>Vastaukset:`,
         vast: `1a.
         <br>呼<strong>んだ</strong>
@@ -247,11 +277,20 @@ let harjoitukset = [{teht: `Tehtävät on jaettu kolmeen osaan kielioppiasioiden
         <br>返<strong>さなかった</strong>
         <br>働<strong>かなかった</strong>
         <br>
-        <br>2a.今日、ピザを食べ<strong>るつもり</strong>です。
-        <br>2b.もうお酒を飲ま<strong>ないつもり</strong>です。
-        <br>2c.来年は日本の旅行に行<strong>くつもり</strong>です。
+        <br>2a. 今日、ピザを食べ<strong>るつもり</strong>です。
+        <br>2b. もうお酒を飲ま<strong>ないつもり</strong>です。
+        <br>2c. 来年は日本の旅行に行<strong>くつもり</strong>です。
         <br>
-        <br>3a.<strong>一年に二回</strong>ぐらい海外旅行に行きます。
-        <br>3b.<strong>一時間に五分</strong>はストレチする必要があります。`}]
+        <br>3a. <strong>一年に二回</strong>ぐらい海外旅行に行きます。
+        <br>3b. <strong>一時間に五分</strong>はストレチする必要があります。
+        <br>
+        <br>4a. 500円<strong>しか</strong>持ってい<strong>ません</strong>。
+        <br>4b. 私は野菜<strong>だけ</strong>食べます。
+        <br>4c. 彼<strong>だけ</strong>来ました。
+        <br>4d. 冷蔵庫にビール<strong>しか</strong>残ってい<strong>ません</strong>。
+        <br>
+        <br>5a. 使いやすい携帯<strong>がほしい</strong>んです。
+        <br>5b. 新しい靴<strong>がほしかった</strong>です。
+        <br>5c. その猫<strong>がほしくない</strong>ですよ。`}]
 
 export {harjoitukset}
