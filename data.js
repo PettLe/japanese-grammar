@@ -291,6 +291,23 @@ joten sitä kannattaa käyttää harkiten. Sanomaa voi vähän pehmentää lisä
 <br>
 <br>タバコを吸わ<strong>ないほうがいい</strong>ですよ。
 <br><i>Tabako o suwanai hou ga ii desu yo.</i>
-<br>Olisi parempi olla polttamatta tupakkaa!`}]
+<br>Olisi parempi olla polttamatta tupakkaa!`},
+{title: "~たことがあります / ~ta koto ga arimasu / kokemuksista kertominen",
+body: `Kun halutaan kertoa siitä mitä joskus <i>on</i> tai <i>ei ole</i> tehnyt, käytetään rakennetta <strong>verbin mennyt -ta-muoto</strong> + <strong>
+こと</strong> + <strong>あります</strong>。こと tarkoittaa yksinkertaisesti asiaa ja muuttaa verbin substantiiviksi. (Esim. 食べること -> <i>syöminen</i>, 
+走ること -> <i>juokseminen</i>). Jos halutaan kertoa mitä ei ole koskaan tehnyt, käytetään lopussa kielteistä muotoa ありません。
+<br>
+スペインに行<strong>ったことがあります</strong>か。
+<br><i>Supein ni itta koto ga arimasu ka.</i>
+<br>Oletko koskaan käynyt Espanjassa?
+<br>
+<br>真面目に勉強し<strong>たことがありません</strong>。
+<br><i>Majime ni benkyou shita koto ga arimasen.</i>
+<br>En ole koskaan opiskellut huolella.
+<br>
+<br>Jos joku kysyy sinun kokemuksistasi kyseistä lauserakennetta käyttäen, voi tähän vastata yksinkertaisesti joko
+<br>myönteisesti: はい、あります。
+<br>tai
+<br>kielteisesti: いいえ、ありません。`}]
 
 export {grammar};
