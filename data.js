@@ -308,6 +308,13 @@ body: `Kun halutaan kertoa siitä mitä joskus <i>on</i> tai <i>ei ole</i> tehny
 <br>Jos joku kysyy sinun kokemuksistasi kyseistä lauserakennetta käyttäen, voi tähän vastata yksinkertaisesti joko
 <br>myönteisesti: はい、あります。
 <br>tai
-<br>kielteisesti: いいえ、ありません。`}]
+<br>kielteisesti: いいえ、ありません。`},
+{title: "Vastakkainasettelu / kaksoispartikkeli",
+body: `Kun on kaksi lausetta yhdistettynä ja halutaan korostaa niiden vastakkaisuutta, käytetään partikkelia は. Alkuperäisestä partikkelista riippuen ne 
+esiintyvät joko yhdessä, tai sitten は korvaa kokonaan alkuperäisen.
+<br><strong>に -> には</strong>
+<br>金曜日<strong>には</strong>仕事に行きますが、<strong>土曜日には</strong>行きません。
+<br><i>Kinyoubi ni wa shigoto ni ikimasu ga, doyoubi ni wa ikimasen.</i>
+<br>Perjantaina menen töihin, mutta maanantaina en.`}]
 
 export {grammar};
