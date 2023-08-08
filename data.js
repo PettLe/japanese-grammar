@@ -313,8 +313,34 @@ body: `Kun halutaan kertoa siitä mitä joskus <i>on</i> tai <i>ei ole</i> tehny
 body: `Kun on kaksi lausetta yhdistettynä ja halutaan korostaa niiden vastakkaisuutta, käytetään partikkelia は. Alkuperäisestä partikkelista riippuen ne 
 esiintyvät joko yhdessä, tai sitten は korvaa kokonaan alkuperäisen.
 <br><strong>に -> には</strong>
-<br>金曜日<strong>には</strong>仕事に行きますが、<strong>土曜日には</strong>行きません。
+<br>金曜日<strong>には</strong>仕事に行きますが、土曜日<strong>には</strong>行きません。
 <br><i>Kinyoubi ni wa shigoto ni ikimasu ga, doyoubi ni wa ikimasen.</i>
-<br>Perjantaina menen töihin, mutta maanantaina en.`}]
+<br>Perjantaina menen töihin, mutta maanantaina en.
+<br>
+<br><strong>で -> では</strong>
+<br>自転車<strong>では</strong>行くことが好きですが、車<strong>では</strong>行くことが好きじゃないです。
+<br><i>Jitensha de wa iku koto ga suki desu ga, kuruma de wa iku koto ga suki ja nai desu.</i>
+<br>Tykkään kulkea polkypyörällä, mutten autolla.
+<br>
+<br><strong>へ -> へは</strong>
+<br>日本<strong>へは</strong>行きたいですが、フランス<strong>へは</strong>行きたくないです。
+<br><i>Nihon e wa ikitai desu ga, furansu e wa ikitakunai desu.</i>
+<br>Tahdon mennä Japaniin, mutten tahdo mennä Ranskaan.
+<br>
+<br><strong>を -> は</strong>
+<br>魚<strong>は</strong>食べますが、肉<strong>は</strong>食べません。
+<br><i>Sakana wa tabemasu ga, niku wa tabemasen.</i>
+<br>Syön kalaa, mutta en syö lihaa.
+<br>
+<br><strong>が -> は</strong>
+<br>スポーツ<strong>は</strong>嫌いですが、サッカー<strong>は</strong>嫌いじゃないです。
+<br><i>Supootsu wa kirai desu ga, sakkaa wa kirai ja nai desu.</i>
+<br>Vihaan urheilua, mutta en vihaa jalkapalloa.
+<br>
+<br><strong><i>tyhjä</i> -> は</strong>
+<br><i>(esim. 今日___、テレビを見ます)</i>
+<br>今日<strong>は</strong>テレビを見ますが、明日<strong>は</strong>テレビを見ません。
+<br><i>Kyou wa terebi o mimasu ga, ashita wa terebi o mimasen.</i>
+<br>Tänään katson televisiota, mutta huomenna en.`}]
 
 export {grammar};
