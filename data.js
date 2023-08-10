@@ -357,8 +357,8 @@ päättyy substantiiviin tai na-adjektiiviin, lisätään vielä と思う eteen
 <br><i>Eiga wa omoshirokatta to omoimasu.</i>
 <br>Mielestäni elokuva oli mielenkiintoinen.
 <br>
-<br>今日の夜、早く帰らない<strong>と思ういます</strong>。
-<br><i>Kyou no yoru, hayaku kaeranai to omoimasu.</i>
+<br>今夜、早く帰らない<strong>と思ういます</strong>。
+<br><i>Konya, hayaku kaeranai to omoimasu.</i>
 <br>Luulen, etten palaa tänä iltana aikaisin kotiin.
 <br>
 <br>Kun halutaan kysyä toisen mielipidettä:
