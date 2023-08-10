@@ -341,6 +341,34 @@ esiintyvät joko yhdessä, tai sitten は korvaa kokonaan alkuperäisen.
 <br><i>(esim. 今日___、テレビを見ます)</i>
 <br>今日<strong>は</strong>テレビを見ますが、明日<strong>は</strong>テレビを見ません。
 <br><i>Kyou wa terebi o mimasu ga, ashita wa terebi o mimasen.</i>
-<br>Tänään katson televisiota, mutta huomenna en.`}]
+<br>Tänään katson televisiota, mutta huomenna en.`},
+{title: "~と思う / ~to omou / mielipiteen esittäminen",
+body: `Kun halutaan kertoa <i>mitä mieltä on jostakin</i>, lisätään vain mielipiteen perään ~と思う (tai kohteliaassa muodossa ~と思います). Jos lause 
+päättyy substantiiviin tai na-adjektiiviin, lisätään vielä と思う eteen です:n perusmuoto だ. Verbien ja i-adjektiivien tapauksessa ne vain esiintyvät perusmuodossaan.
+<br>それは彼の本<strong>だと思います</strong>。
+<br><i>Sore wa kare no hon da to omoimasu.</i>
+<br>Luulen, että se on hänen kirja.
+<br>
+<br>私の古い携帯は中々便利<strong>じゃなかったと思ういます</strong>。
+<br><i>Watashi no furui keitai wa nakanaka benri janakatta to omoimasu.</i>
+<br>Mielestäni vanha puhelimeni ei ollut kovin käytännöllinen.
+<br>
+<br>映画は面白かった<strong>と思います</strong>。
+<br><i>Eiga wa omoshirokatta to omoimasu.</i>
+<br>Mielestäni elokuva oli mielenkiintoinen.
+<br>
+<br>今日の夜、早く帰らない<strong>と思ういます</strong>。
+<br><i>Kyou no yoru, hayaku kaeranai to omoimasu.</i>
+<br>Luulen, etten palaa tänä iltana aikaisin kotiin.
+<br>
+<br>Kun halutaan kysyä toisen mielipidettä:
+<br>あなたはそのケーキを<strong>どう</strong>思いますか。
+<br><i>Anata wa sono keeki wo dou omoimasu ka.</i>
+<br>Mitä mieltä olet siitä kakusta?
+<br>
+<br>Kun kerrotaan <i>mitä haluaisi tehdä</i> (verbin -たい-muoto) tulevaisuudessa, lisätään perään usein 思う-rakenne kestomuodossaan.
+<br>数年後、世界の旅行に行きたい<strong>と思っています</strong>。
+<br><i>Suu nen go, sekai no ryokou ni ikitai to omotte imasu.</i>
+<br>Ajattelen, että haluaisin lähteä maailmanmatkalle joidenkin vuosien kuluttua.`}]
 
 export {grammar};
