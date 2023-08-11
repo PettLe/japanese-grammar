@@ -369,6 +369,28 @@ päättyy substantiiviin tai na-adjektiiviin, lisätään vielä と思う eteen
 <br>Kun kerrotaan <i>mitä haluaisi tehdä</i> (verbin -たい-muoto) tulevaisuudessa, lisätään perään usein 思う-rakenne kestomuodossaan.
 <br>数年後、世界の旅行に行きたい<strong>と思っています</strong>。
 <br><i>Suu nen go, sekai no ryokou ni ikitai to omotte imasu.</i>
-<br>Ajattelen, että haluaisin lähteä maailmanmatkalle joidenkin vuosien kuluttua.`}]
+<br>Ajattelen, että haluaisin lähteä maailmanmatkalle joidenkin vuosien kuluttua.`},
+{title: "Siteeraus ja tiedon välittäminen",
+body: `Edellisen osan lauserakennetta voi käyttää myös moneen muuhun tarkoitukseen vaihtamalla ainoastaan lopun 思う johonkin toiseen verbiin. Esimerkiksi jos 
+halutaan siteerata jotain, korvataan se verbillä 言う (いう) eli sanoa.
+<br>彼は明日来る<strong>と言いました</strong>。
+<br><i>Kare wa ashita kuru to iimashita.</i>
+<br>Hän sanoi tulevansa huomenna.
+<br>
+<br>Jos halutaan siteerata suoraan kirjaimellisesti jotakin, löytyy japanista sille omanlaisensa lainausmerkit: 「」
+<br>彼女は「コーヒーはあまり好きじゃない」<strong>と言いました</strong>。
+<br><i>Kanojo wa "koohii wa amari suki janai" to iimashita.</i>
+<br>Hän sanoi: "En pidä juurikaan kahvista."
+<br>
+<br>Rakenteen perustyylistä muotoa (ja yleensä ilman kanjia!) käytetään usein kertomaan miksi jotakin kutsutaan.
+<br>これは「ハリーポッター」<strong>という</strong>本です。
+<br><i>Kore wa "Harii Pottaa" to iu hon desu.</i>
+<br>Tämä on Harry Potter -niminen kirja.
+<br>
+<br>Jos halutaan välittää tieto siitä mitä <i>joku on aiemmin kertonut</i>, ja tieto on yhä paikkaansa pitävää ja muuttumatonta - käytetään rakenteesta 
+kestomuotoa ~と言っている
+<br>友達は歌うのが下手だ<strong>と言っていました</strong>。
+<br><i>Tomodachi wa utau no ga heta da to itte imashita.</i>
+<br>Ystäväni kertoi olevansa huono laulaja.`}]
 
 export {grammar};
